@@ -1,1 +1,3 @@
 # Fullstack exercise
+
+## Context
