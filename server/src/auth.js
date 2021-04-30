@@ -4,15 +4,15 @@ const secret = process.env.SECRET
 
 const expDate = () => Math.floor(Date.now() / 1000) + SEC_IN_HOUR * 10 //10h validity
 
-const generateToken = data =>
+const generateToken = (uid) =>
   jwt.sign(
     {
       exp: expDate(),
-      data,
+      uid,
     },
     secret
   )
 
-const decode = token => jwt.verify(token, secret)
+const decode = (token) => jwt.verify(token, secret)
 
 module.exports = { generateToken, decode }
