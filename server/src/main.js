@@ -5,6 +5,7 @@ const app = express()
 const os = require('os')
 const port = process.env | 4500
 const { generateToken, decode } = require('./auth')
+const { getUserInfo, getUserVotes, getRandomUser } = require('./database')
 
 app.use(cors())
 
@@ -15,7 +16,8 @@ app.get('/', (req, res) => {
 })
 
 app.get('/login', (req, res) => {
-  res.send(generateToken())
+  const uid = getRandomUser().uid
+  res.send(generateToken(uid))
 })
 
 app.listen(port, () => {

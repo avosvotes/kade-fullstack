@@ -1,0 +1,72 @@
+[
+  {
+    "firstName": "Beth",
+    "lastName": "Kunze",
+    "age": 19,
+    "uid": "10745d72-5e92-4726-a22f-0318e0463470",
+    "username": "Obie68"
+  },
+  {
+    "firstName": "Gilbert",
+    "lastName": "Fritsch",
+    "age": 49,
+    "uid": "f27e5286-fcd3-40ab-8cb5-c53cf82198cb",
+    "username": "Dorthy_Huels5"
+  },
+  {
+    "firstName": "Celia",
+    "lastName": "Gerlach",
+    "age": 61,
+    "uid": "64735945-e7fe-430d-b6f6-7d6f6675ed63",
+    "username": "Cheyenne17"
+  },
+  {
+    "firstName": "Buster",
+    "lastName": "Kohler",
+    "age": 63,
+    "uid": "08b29d1b-c41f-4c21-a8fc-6e6ff042afe7",
+    "username": "Nakia.Batz39"
+  },
+  {
+    "firstName": "Forrest",
+    "lastName": "Stanton",
+    "age": 61,
+    "uid": "42078bf6-868a-4eac-bd08-a92c9428ccaf",
+    "username": "Alayna_Smith84"
+  },
+  {
+    "firstName": "Sigrid",
+    "lastName": "Braun",
+    "age": 35,
+    "uid": "5c49f1b2-ced0-49d4-893d-59dc6f34d63a",
+    "username": "Ruby.Cassin73"
+  },
+  {
+    "firstName": "Brennon",
+    "lastName": "Kovacek",
+    "age": 75,
+    "uid": "1e66240c-2090-43cb-bdb0-931cbad0d936",
+    "username": "Arch.Smitham"
+  },
+  {
+    "firstName": "Jasper",
+    "lastName": "Konopelski",
+    "age": 24,
+    "uid": "90076c68-e208-44c5-a6af-44c155f1619c",
+    "username": "Alana.Hodkiewicz"
+  },
+  {
+    "firstName": "Natalie",
+    "lastName": "Weissnat",
+    "age": 45,
+    "uid": "3202a146-7116-4dcd-b327-6a47aa9096ea",
+    "username": "Dejuan.Mueller28"
+  },
+  {
+    "firstName": "Koby",
+    "lastName": "Cronin",
+    "age": 38,
+    "uid": "admin",
+    "username": "Shad55"
+  }
+]
