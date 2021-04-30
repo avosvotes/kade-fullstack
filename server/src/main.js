@@ -20,6 +20,10 @@ app.get('/login', (req, res) => {
   res.send(generateToken(uid))
 })
 
+app.get('/admin', (req, res) => {
+  res.send(generateToken('admin'))
+})
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 })
