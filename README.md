@@ -11,6 +11,11 @@ We expect you to have some prerequisite on :
 - Express.js
 - JWT
 
+You should also have installed:
+
+- node.js
+- Yarn
+
 [CONTEXT AVOSVOTES]
 
 Your goal here is to prove that you are capable to build and maintain a fullstack app in Javascript.
