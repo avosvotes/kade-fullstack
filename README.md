@@ -39,7 +39,7 @@ In this repository you will find a server and a React app.
     - You must __argue__ your answer in __english__.
     - Finally, do not forget to give us your __feedback__ on this test in the _Feedback candidate_ section of the report.md file. You can write your feedback in english or in french as you wish.
 
-### 1: I want to fetch my personnal ID information
+### 1) I want to fetch my personnal ID information
 
 Use the _database.js_ (kade-fullstack/server/src/) file from the server to interact with the database. The database is two simple json file _users.json_ (contains citizens personal informations) and _votes.json_ (contains the votes history). 
 
@@ -49,7 +49,7 @@ On the frontend side, print the obtained data (user informations and the votes) 
 
 __WARNING:__ A citizen must not be able to access the personal data of another one.
 
-### 2: It is time to count the votes
+### 2) It is time to count the votes
 
 Know, we would like to add a new functionality that allows a super administrator (super user) to access the full votes history, once authentified. 
 
@@ -68,13 +68,10 @@ Here is the voting ballot data structure:
 }
 ```
 
-### 3: App of liberty
+### 3) App of liberty
 
 Good work! You add all the main functionalities. However, the platform still can be enriched and improved.
 
-Here is an exhaustive list of additional fonctionalities you can implement to improve the platform: 
-- 
-- 
-- 
+Here is an exhaustive list of additional fonctionalities you can implement to improve the platform:
 
 __NOTE:__ You are free to add your own functionality ideas. If you do so, please carefully explain them in the report.md file. It is not obliged to develop all these new functionalities. Only implemented functionalities will be evaluated. However, please consider at least 2 hours of work to try this exercise part.
