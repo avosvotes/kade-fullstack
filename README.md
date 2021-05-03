@@ -39,7 +39,7 @@ In this repository you will find a server and a React app.
 - Be careful to correctly __comment__ all the modification you will make on the source code
 - During the exercise you will find some questions:
     - Write all your answer in the __report.md__ file
-    - You must __argue__ your answer in __english__.
+    - You must present your__arguments__ in __english__.
     - Finally, do not forget to give us your __feedback__ on this test in the _Feedback candidate_ section of the report.md file. You can write your feedback in english or in french as you wish.
 
 ### 1) Fetch personnal ID information
