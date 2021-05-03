@@ -48,7 +48,7 @@ Use the _database.js_ (kade-fullstack/server/src/) file from the server to inter
 
 Thanks to the database.js functions, make one or more endpoints to communicate the information to the frontend. The ID of the connected user is in the token.
 
-On the frontend side, use react to display the information, that you fetch from the backend, for a user.
+On the frontend side, use react to display the information for a user. You have to get them from the backend, and display them in a way that makes sense according to the data you receive.
 
 __WARNING:__ A citizen must not be able to access the personal data of another one.
 
