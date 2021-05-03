@@ -22,7 +22,7 @@ For this exercice, you will develop a small secure voting web application. This 
 
 WARNING: Citizen's personal ID information and voting history are extremely critical and confidential. A citizen must not be able to read or obtain another citizen's personal ID information, and no one except the super administrator can get the voting history.
 
-Your goal here is to prove that you are capable to build and maintain a fullstack app in Javascript.
+Your goal here is to prove that you are capable to build and maintain a secured fullstack app in Javascript.
 You should be particularly careful about security and data privacy.
 
 ## Your task
