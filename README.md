@@ -42,7 +42,7 @@ In this repository you will find a server and a React app.
     - You must __argue__ your answer in __english__.
     - Finally, do not forget to give us your __feedback__ on this test in the _Feedback candidate_ section of the report.md file. You can write your feedback in english or in french as you wish.
 
-### 1) I want to fetch my personnal ID information
+### 1) Fetch personnal ID information
 
 Use the _database.js_ (kade-fullstack/server/src/) file from the server to interact with the database. The database is two simple json file _users.json_ (contains citizens personal informations) and _votes.json_ (contains the votes history). 
 
@@ -78,12 +78,12 @@ How would you see the integration of a blockchain to secure the voting process ?
 We do not expect a detailed answer within the associated part in the __report.md__ file, knowing that this is an open question.
 
 
-### 4) App of liberty
+### 4) Express your creativity !
 
-Good work! You add all the main features. However, the platform still can be enriched and improved.
+Good work! You added all the main features. However, the platform can still be enriched and improved.
 
 Here is an non-exhaustive list of ideas that can be implemented to improve the platform:
 - Develop a function library on the frontend side to display all information well to users and the administror.
 - Develop a security middleware
 
-__NOTE:__ Feel free to add your own feature ideas. If you do so, please carefully explain them in the report.md file. It is not required to develop all these new features. Only implemented features will be evaluated. 2 hours are a minimum to try to complete this part. Otherwise, be precise on what you did, and how you proceed.
+__NOTE:__ Feel free to add your own feature ideas. If you do so, please carefully explain them in the __report.md__ file. It is not required to develop all these new features. Only the features you succesfully implemented will be evaluated. 2 hours are a minimum to try to complete this part. Make sure to be precise on the work you did, and how you proceeded.
