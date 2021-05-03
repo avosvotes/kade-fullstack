@@ -79,4 +79,4 @@ Here is an non-exhaustive list of ideas that can be implemented to improve the p
 - Develop a function library on the frontend side to display all information well to users and the administror.
 - Develop a security middleware
 
-__NOTE:__ You are free to add your own feature ideas. If you do so, please carefully explain them in the report.md file. It is not required to develop all these new features. Only implemented features will be evaluated. However, please consider at least 2 hours of work to try this exercise part.
+__NOTE:__ You are free to add your own feature ideas. If you do so, please carefully explain them in the report.md file. It is not required to develop all these new features. Only implemented features will be evaluated. 2 hours are a minimum to try to complete this part. Otherwise, be precise on what you did, and how you proceed.
