@@ -16,7 +16,7 @@ You should also have installed:
 
 ## Context
 
-AVosVotes (tl: ToYourVotes) is a french startup that is aiming to encourage citizen participation through a next-generation dematerialized voting solution. AVosvotes is therefore developing a citizen consultation platform with two specificities: Security (thanks to the blockchain) and Scalability with the implementation of a Know Your Customer (KYC) process with machine learning algorithm.
+AVosVotes (tl: ToYourVotes) is a french startup that is aiming to encourage citizen participation through a next-generation dematerialized voting solution. AVosVotes is therefore developing a citizen consultation platform with two specificities: Security (thanks to the blockchain) and Scalability with the implementation of a Know Your Customer (KYC) process with machine learning algorithm.
 
 For this exercice, you will develop a small secure voting web application. This application will allow citizens to fetch their personal ID informations once they have authenticated themselves. Furthermore, a super administrator will be able to fetch the voting history to count the votes.
 
@@ -25,7 +25,7 @@ WARNING: Citizen's personal ID information and voting history are extremely crit
 Your goal here is to prove that you are capable to build and maintain a fullstack app in Javascript.
 You should be particularly careful about security and data privacy.
 
-## Your task
+## Your tasks
 
 In this repository you will find a server and a React app.
 
@@ -50,7 +50,7 @@ Thanks to the database.js functions, make one or more endpoints to communicate t
 
 On the frontend side, use react to display the information for a user. You have to get them from the backend, and display them in a way that makes sense according to the data you receive.
 
-### 2) It is time to count the votes
+### 2) It's time to count the votes
 
 Now, we would like to add a new feature that allows a super administrator (super user) to access the full votes history, once authentified. 
 
