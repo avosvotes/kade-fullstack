@@ -2,7 +2,7 @@
 
 This is an exercise about fullstack web development.
 
-We expect you to have some prerequisite on :
+We expect you to have some prerequisites on :
 
 - javascript
 - React
