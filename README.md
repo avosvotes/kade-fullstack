@@ -75,7 +75,7 @@ Here is the voting ballot data structure:
 
 Good work! You add all the main features. However, the platform still can be enriched and improved.
 
-Here is an exhaustive list of ideas that can be implemented to improve the platform:
+Here is an non-exhaustive list of ideas that can be implemented to improve the platform:
 - Develop a function library on the frontend side to display all information well to users and the administror.
 - Develop a security middleware
 
