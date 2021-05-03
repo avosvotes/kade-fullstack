@@ -50,8 +50,6 @@ Thanks to the database.js functions, make one or more endpoints to communicate t
 
 On the frontend side, use react to display the information for a user. You have to get them from the backend, and display them in a way that makes sense according to the data you receive.
 
-__WARNING:__ A citizen must not be able to access the personal data of another one.
-
 ### 2) It is time to count the votes
 
 Know, we would like to add a new feature that allows a super administrator (super user) to access the full votes history, once authentified. 
