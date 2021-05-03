@@ -54,7 +54,7 @@ __WARNING:__ A citizen must not be able to access the personal data of another o
 
 ### 2) It is time to count the votes
 
-Know, we would like to add a new functionality that allows a super administrator (super user) to access the full votes history, once authentified. 
+Know, we would like to add a new feature that allows a super administrator (super user) to access the full votes history, once authentified. 
 
 It is necessary to obtain an admin token through the path /admin. There is a user of uid "admin" in the database.
 
@@ -73,10 +73,10 @@ Here is the voting ballot data structure:
 
 ### 3) App of liberty
 
-Good work! You add all the main functionalities. However, the platform still can be enriched and improved.
+Good work! You add all the main features. However, the platform still can be enriched and improved.
 
 Here is an exhaustive list of ideas that can be implemented to improve the platform:
 - Develop a function library on the frontend side to display all information well to users and the administror.
 - Develop a security middleware
 
-__NOTE:__ You are free to add your own functionality ideas. If you do so, please carefully explain them in the report.md file. It is not obliged to develop all these new functionalities. Only implemented functionalities will be evaluated. However, please consider at least 2 hours of work to try this exercise part.
+__NOTE:__ You are free to add your own feature ideas. If you do so, please carefully explain them in the report.md file. It is not obliged to develop all these new features. Only implemented features will be evaluated. However, please consider at least 2 hours of work to try this exercise part.
