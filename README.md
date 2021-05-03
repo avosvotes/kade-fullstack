@@ -16,13 +16,13 @@ You should also have installed:
 
 ## Context
 
-Avosvotes is a french startup that is tending to encourage citizen participation through a next-generation dematerialized voting solution. Avosvotes is therefore developing a citizen consultation platform with two specificities, security (thanks to the blockchain) and the implementation of a know your customer (KYC) process with machine learning algorithm. 
+AVosVotes (tl: ToYourVotes) is a french startup that is aiming to encourage citizen participation through a next-generation dematerialized voting solution. AVosvotes is therefore developing a citizen consultation platform with two specificities: Security (thanks to the blockchain) and Scalability with the implementation of a Know Your Customer (KYC) process with machine learning algorithm.
 
 For this exercice, you will develop a small secure voting web application. This application will allow citizens to fetch their personal ID informations once they have authenticated themselves. Furthermore, a super administrator will be able to fetch the voting history to count the votes.
 
 WARNING: Citizen's personal ID information and voting history are extremely critical and confidential. A citizen must not be able to read or obtain another citizen's personal ID information, and no one except the super administrator can get the voting history.
 
-Your goal here is to prove that you are capable to build and maintain a secured fullstack app in Javascript.
+Your goal here is to prove that you are capable to build and maintain a fullstack app in Javascript.
 You should be particularly careful about security and data privacy.
 
 ## Your task
@@ -31,7 +31,7 @@ In this repository you will find a server and a React app.
 
 - __Fork__ the project on your personal repository
 - Push your __result Commit__ on your personal _fullstack exercise_ repository
-- A minimum of __one__ commit for each part of the complete exercise
+- A minimum of __one__ commit for each part of the complete exercise is required to be considered valid
 - Please use the __commit format__ described below:
     - #{exercise part number} {action verb infinitive form} {action} 
     - Exemple: "#1 Add token verification"
@@ -52,7 +52,7 @@ On the frontend side, use react to display the information for a user. You have 
 
 ### 2) It is time to count the votes
 
-Know, we would like to add a new feature that allows a super administrator (super user) to access the full votes history, once authentified. 
+Now, we would like to add a new feature that allows a super administrator (super user) to access the full votes history, once authentified. 
 
 It is necessary to obtain an admin token through the path /admin. There is a user of uid "admin" in the database.
 
@@ -71,11 +71,11 @@ Here is the voting ballot data structure:
 
 ### 3) Blockchain integration
 
-The strength of the Avosvotes app lies in the use it makes and wants to make of the Tezos blockchain. Indeed, this is an important aspect of the tools designed by the company! It tends to greatly improve the security and monitoring of ballots organized via the platform you may be working on. In this context, a question deserves consideration : 
+The strength of the Avosvotes app lies in it's use of the Tezos blockchain. Indeed, this is an important aspect of the tools designed by the company! It greatly improves the security and monitoring of ballots organized via the platform you may be working on. In this context, a question deserves consideration : 
 
 How would you see the integration of a blockchain to secure the voting process ? By that, we are waiting for your vision around the use of this technology for vote registration.
 
-We expect a detailed answer within the associated part in the __report.md__ file, knowing that this open question will be discussed again in a future interview. 
+We expect a detailed answer within the associated part in the __report.md__ file, knowing that this is an open question and it will be discussed again in a future interview. 
 
 
 ### 4) App of liberty
