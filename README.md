@@ -32,6 +32,9 @@ In this repository you will find a server and a React app.
 - __Fork__ the project on your personal repository
 - Push your __result Commit__ on your personal _fullstack exercise_ repository
 - A minimum of __one__ commit for each part of the complete exercise
+- Please use the __commit format__ described below:
+    - #{exercise part number} {action verb infinitive form} {action} 
+    - Exemple: "#1 Add token verification"
 - Once you __finish__ the _fullstack exercise_ or time delay is complete, make a __pull request__
 - Be careful to correctly __comment__ all the modification you will make on the source code
 - During the exercise you will find some questions:
