@@ -44,7 +44,7 @@ In this repository you will find a server and a React app.
 
 ### 1) I want to fetch my personnal ID information
 
-On the server, you have to create one or more endpoints to exchange data from backend to frontend. Feel free to define them as you want, as long as your code is clean and correctly organized. You have some scaffolding in server/src/main.js. You have to use the existing database.js file to interact with the database. The ID of the user can be found in his auth token.
+Use the _database.js_ (kade-fullstack/server/src/) file from the server to interact with the database. The database is two simple json file _users.json_ (contains citizens personal informations) and _votes.json_ (contains the votes history). 
 
 Thanks to the database.js functions, make one or more endpoints to communicate the information to the frontend. The ID of the connected user is in the token.
 
@@ -71,7 +71,16 @@ Here is the voting ballot data structure:
 }
 ```
 
-### 3) App of liberty
+### 3) Blockchain integration
+
+The strength of the Avosvotes app lies in the use it makes and wants to make of the Tezos blockchain. Indeed, this is an important aspect of the tools designed by the company! It tends to greatly improve the security and monitoring of ballots organized via the platform you may be working on. In this context, a question deserves consideration : 
+
+How would you see the integration of a blockchain to secure the voting process ? By that, we are waiting for your vision around the use of this technology for vote registration.
+
+We expect a detailed answer within the associated part in the __report.md__ file, knowing that this open question will be discussed again in a future interview. 
+
+
+### 4) App of liberty
 
 Good work! You add all the main features. However, the platform still can be enriched and improved.
 
