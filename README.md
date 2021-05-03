@@ -58,7 +58,7 @@ Know, we would like to add a new feature that allows a super administrator (supe
 
 It is necessary to obtain an admin token through the path /admin. There is a user of uid "admin" in the database.
 
-You have to creat an endpoint only available for the super administrator and reject other users. One the front side, print a summary of the votes by ballot.
+You have to create an endpoint only available for the super administrator and reject other users. One the front side, print a summary of the votes by ballot.
 
 Here is the voting ballot data structure:
 
