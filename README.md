@@ -62,9 +62,9 @@ You have to creat an endpoint only available for the super administrator and rej
 
 Here is the voting ballot data structure:
 
-```json
+```javascript
 {
-    id: string, #Vote id (unique for each vote)
+    id: string, //Vote id (unique for each vote)
     uid: string, // Voter id
     vote: string, // Ballot id
     value: number, // Voting value
