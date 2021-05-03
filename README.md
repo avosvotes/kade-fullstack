@@ -44,7 +44,7 @@ In this repository you will find a server and a React app.
 
 ### 1) I want to fetch my personnal ID information
 
-Use the _database.js_ (kade-fullstack/server/src/) file from the server to interact with the database. The database is two simple json file _users.json_ (contains citizens personal informations) and _votes.json_ (contains the votes history). 
+On the server, you have to create one or more endpoints to exchange data from backend to frontend. Feel free to define them as you want, as long as your code is clean and correctly organized. You have some scaffolding in server/src/main.js. You have to use the existing database.js file to interact with the database. The ID of the user can be found in his auth token.
 
 Thanks to the database.js functions, make one or more endpoints to communicate the information to the frontend. The ID of the connected user is in the token.
 
