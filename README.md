@@ -75,7 +75,7 @@ The strength of the Avosvotes app lies in it's use of the Tezos blockchain. Inde
 
 How would you see the integration of a blockchain to secure the voting process ? By that, we are waiting for your vision around the use of this technology for vote registration.
 
-We do not expect a detailed answer within the associated part in the __report.md__ file, knowing that this is an open question.. 
+We do not expect a detailed answer within the associated part in the __report.md__ file, knowing that this is an open question.
 
 
 ### 4) App of liberty
