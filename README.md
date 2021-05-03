@@ -18,7 +18,7 @@ You should also have installed:
 
 Avosvotes is a french startup that is tending to encourage citizen participation through a next-generation dematerialized voting solution. Avosvotes is therefore developing a citizen consultation platform with two specificities, security (thanks to the blockchain) and the implementation of a know your customer (KYC) process with machine learning algorithm. 
 
-For this exercice, we will develop a small secure voting web application. This application will allow citizens to fetch their personal ID informations once they have authenticated themselves. Furthermore, a super administrator will be able to fetch the voting history to count the votes.
+For this exercice, you will develop a small secure voting web application. This application will allow citizens to fetch their personal ID informations once they have authenticated themselves. Furthermore, a super administrator will be able to fetch the voting history to count the votes.
 
 WARNING: Citizen's personal ID information and voting history are extremely critical and confidential. A citizen must not be able to read or obtain another citizen's personal ID information, and no one except the super administrator can get the voting history.
 
