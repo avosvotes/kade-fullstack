@@ -6,15 +6,19 @@ Please report in this file all your answers, argumentations, code explanations a
 
 ### 1) I want to fetch my personnal ID information
 
+Voici mes réponses 
 
 ### 2) It is time to count the votes
 
+Voici mes réponses
 
 ### 3) Blockchain integration
 
+Voici mes réponses
 
 ### 4) App of liberty
 
+Voici mes réponses
 
 ## Feedback
 
